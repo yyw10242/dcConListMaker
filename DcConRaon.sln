@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "temp", "temp\temp.csproj", "{B25D9383-DFB9-4733-B048-9E2FFB014066}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DcConRaon", "DcConRaon.csproj", "{B25D9383-DFB9-4733-B048-9E2FFB014066}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CDDAB7B4-9F30-4E6B-9BE9-3B929C1B8B79}
+		SolutionGuid = {044E5029-5E5E-4580-8B63-D152A50F3052}
 	EndGlobalSection
 EndGlobal
