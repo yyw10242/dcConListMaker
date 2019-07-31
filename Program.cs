@@ -29,7 +29,7 @@ namespace DCConList_Maker
             if (File.Exists("dcConMakerSettings.txt"))
             {
                 dcConMakerSettings = File.OpenRead("dcConMakerSettings.txt");
-                reader = new StreamReader(dcConMakerSettings,System.Text.Encoding.Default);
+                reader = new StreamReader(dcConMakerSettings);
             }
             else
             {
